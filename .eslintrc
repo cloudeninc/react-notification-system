@@ -47,6 +47,10 @@
     "no-console": 0,
     "no-throw-literal": 0,
     "id-length": 0,
-    "max-len": 0
+    "max-len": 0,
+
+    "operator-linebreak": 0,
+    "no-multiple-empty-lines": 0,
+    "strict": 0
   }
 }
